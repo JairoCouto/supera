@@ -1,6 +1,12 @@
-<p>Projeto de Desenvolvedor PHP - SUPERA</p>
+<p><b>Projeto de Desenvolvedor PHP - SUPERA</b</p>
 
+<p></p>
+<p>Após baixar o arquivo é necessário rodar o script: <b> composer install</b> , afins de baixar todos os arquivos da vendor para rodar corretamente o projeto.</p>
 
+<p><b>Criação das Tabelas e Seeds:</b></p>
+
+<p>Todos os arquivos database estão configurados via Migrates. Havendo relacionamento entre as tabelas contrato e unidade.</p>
+<p>A tabela de atestado, somente para visualização é carregada a partir do seeds <b>AtestadoSeeder</b>
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
